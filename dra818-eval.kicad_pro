@@ -389,10 +389,12 @@
   },
   "libraries": {
     "pinned_footprint_libs": [
-      "DRA818"
+      "DRA818",
+      "LM4871"
     ],
     "pinned_symbol_libs": [
-      "DRA818V"
+      "DRA818V",
+      "LM4871M"
     ]
   },
   "meta": {
